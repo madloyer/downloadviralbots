@@ -51,7 +51,7 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/paradise8888/File-Sharing-Up</a>
+ • Source Code: <a href='https://github.com/paradise8888/File-Sharing-Up'</a>
 
 👨‍💻 Develoved by </b><a href='https://t.me/zioassistan't>@zioassistant</a>
 """
