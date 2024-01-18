@@ -23,7 +23,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Develoved by </b><a href='https://t.me/zioassistant>@zioassistant</a>
+👨‍💻 Develoved by </b><a href='https://t.me/zioassistant'>@zioassistant</a>
 """
 
     close = [
@@ -53,5 +53,5 @@ class Data:
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
  • Source Code: <a href='https://github.com/paradise8888/File-Sharing-Up</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/zioassistant>@zioassistant</a>
+👨‍💻 Develoved by </b><a href='https://t.me/zioassistan't>@zioassistant</a>
 """
