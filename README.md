@@ -1,4 +1,4 @@
-# File-Sharing-Man
+# File-Sharing-Up
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
@@ -26,12 +26,16 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 🛡 Installation
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://https://github.com/paradise8888/File-Sharing-Up)</br>
 
-**Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
-<a href="https://youtu.be/O2tieQgzYZg">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
+
+### Deploy On VPS
+- git clone https://github.com/paradise8888/File-Sharing-Up
+- cd File-Sharing-Top
+- pip3 install -r requirements.txt
+- nano config.env ( untuk merubah vars )
+- bash start
+
 
 <details>
 <summary><h3><b>🔗 Extra Custom & List Vars</b></h3></summary>
@@ -51,7 +55,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/mrismanaziz/File-Sharing-Man/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
+* `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/mrismanaziz/File-Sharing-Top/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
 * `DISABLE_CHANNEL_BUTTON` Masukan True untuk Nonaktifkan Tombol Berbagi Saluran, Default jika False
 
 ### Fillings
@@ -90,6 +94,3 @@ published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
 
 ##
-
-   **Berikan Bintang Repo ini jika Anda menyukainya ⭐⭐⭐⭐⭐**
-
