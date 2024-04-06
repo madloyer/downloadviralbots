@@ -23,7 +23,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Develoved by </b><a href='https://t.me/zioassistant'>@zioassistant</a>
+👨‍💻 Develoved by </b><a href='https://t.me/zioassistant'> @zioassistant </a>
 """
 
     close = [
